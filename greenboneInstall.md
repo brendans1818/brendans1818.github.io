@@ -1,4 +1,4 @@
-# brendans1818.github.io
+# brendans1818.github.io/greenboneInstall.md
 # DOCKER INSTALL
 **PreDocker Install: (commands to install docker on Ubuntu via the powerpoint)**
   - sudo apt update
