@@ -8,8 +8,8 @@
 //screenshot of WireGuard running on my phone  
 [![IMG-3632.jpg](https://i.postimg.cc/TPL6DST9/IMG-3632.jpg)](https://postimg.cc/kVmzrT66)  
 //screenshot of my normal IP on my pc  
-[![IP-PC-inactive.png](https://i.postimg.cc/vm9KMdQp/IP-PC-inactive.png)](https://postimg.cc/Lq9DBwgT)  
+[![Screenshot-2021-11-29-135632.png](https://i.postimg.cc/151bcMYS/Screenshot-2021-11-29-135632.png)](https://postimg.cc/qgQmpcTD)  
 //screenshot of WireGuard running on my pc  
-[![IP-PC-active.png](https://i.postimg.cc/QMkq0NNx/IP-PC-active.png)](https://postimg.cc/KKjLY2gd)  
+[![Screenshot-2021-11-29-135643.png](https://i.postimg.cc/Dyvdw3ct/Screenshot-2021-11-29-135643.png)](https://postimg.cc/rzHtfb3J)  
 //screenshot of both normal IP and VPN IP on my PC  
-[![IPS-with-Wire-Guard-Open.png](https://i.postimg.cc/mr2SpfPY/IPS-with-Wire-Guard-Open.png)](https://postimg.cc/75d7bRMh)  
+[![Screenshot-2021-11-29-135603.png](https://i.postimg.cc/QMYRQ3vY/Screenshot-2021-11-29-135603.png)](https://postimg.cc/DWsjhtv1)  
