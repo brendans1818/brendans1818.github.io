@@ -1,3 +1,5 @@
+# About Me
+Github page created by Brendan Moore, a senior at the University of Tulsa.
 # Arch Install
 A link to the arch install instructions can be found [here](https://github.com/brendans1818/Arch_Install/blob/main/archInstall.md)
 # GreenBone Install
